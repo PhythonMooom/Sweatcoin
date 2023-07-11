@@ -1,0 +1,2 @@
+# Sweatcoin
+sweatcoin repo public
